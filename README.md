@@ -1,7 +1,9 @@
 # Portfólio
 Projeto da Formação Front-end da Alura.
 
-### Live: https://devmarcosvinicius.github.io/portfolio-front-end-alura/
+### Links para o projeto: 
+* https://devmarcosvinicius.github.io/portfolio-front-end-alura/
+* https://portfolio-front-end-alura.vercel.app/
 
 ## Preview:
 
